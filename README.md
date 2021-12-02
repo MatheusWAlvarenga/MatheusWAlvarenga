@@ -8,8 +8,8 @@
 
 ### About me
 
-Co-founder MWBR Tecnologia.
-Web developer Oinnos Tecnologia.
+Co-founder [MWBR Tecnologia].
+Web developer [Oinnos Tecnologia].
 
 #### Education 🖊
 
