@@ -7,7 +7,7 @@
 
 ### About me
 
-- [MWBR Tecnologia](mwbr.tecnologia@gmail.com) - Web developer
+- [MWBR Tecnologia](https://www.linkedin.com/company/mwbr-tecnologia/) - Web developer
 - [Oinnos Tecnologia](https://oinnos.com.br/) - Web developer
 
 #### Education 🖊
