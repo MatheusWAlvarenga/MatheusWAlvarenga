@@ -3,7 +3,7 @@
 # Matheus William Alvarenga
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/matheuswalvarenga)](https://www.linkedin.com/in/matheuswalvarenga/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-black?labelColor=black&logo=twitter&logoColor=white&link=https://twitter.com/Matheus32217992)](https://twitter.com/Matheus32217992)
+
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?logo=Gmail&logoColor=white&link=mailto:matheuswalvarenga@gmail.com)](mailto:matheuswalvarenga@gmail.com)
 
 
