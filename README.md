@@ -14,7 +14,7 @@
 </div>
 
 
-### About me
+#### Workplace 👨🏻‍💻
 
 - [MWBR Tecnologia](https://www.linkedin.com/company/mwbr-tecnologia/) - Web developer 
 - [Oinnos Tecnologia](https://oinnos.com.br/) - Web developer  
@@ -22,7 +22,7 @@
 
 
 
-#### Education 🖊
+#### Education 📚
 
 - [Unitri](https://unitri.edu.br/) - Computer Science.
 - [Rocketseat](https://rocketseat.com.br/) - Javascript ES6+ / NodeJS / ReactJS / React Native
