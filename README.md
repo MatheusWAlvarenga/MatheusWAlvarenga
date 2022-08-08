@@ -17,8 +17,6 @@
 #### Workplace 👨🏻‍💻
 
 - [MWBR Tecnologia](https://www.linkedin.com/company/mwbr-tecnologia/) - Web developer 
-- [Oinnos Tecnologia](https://oinnos.com.br/) - Web developer  
-
 
 
 
