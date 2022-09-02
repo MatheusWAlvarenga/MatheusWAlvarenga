@@ -7,7 +7,7 @@
 
 # Matheus William Alvarenga
 
-<br/>
+
 <div align="center">
 	
 [![GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusWAlvarenga&theme=vue)](https://github.com/MatheusWAlvarenga/) 
@@ -16,8 +16,9 @@
 
 #### Workplace 👨🏻‍💻
 
-- [MWBR Tecnologia](https://www.linkedin.com/company/mwbr-tecnologia/) - Web developer 
+- [MWBR Tecnologia](https://www.linkedin.com/company/mwbr-tecnologia/) - Web developer
 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/company/mwbr-tecnologia/) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?&logo=instagram&logoColor=white)](https://www.instagram.com/mwbr.tecnologia/)   
 
 
 #### Education 📚
