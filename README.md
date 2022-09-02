@@ -2,22 +2,15 @@
 # Matheus William Alvarenga
 <div align="end"> 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/matheuswalvarenga)](https://www.linkedin.com/in/matheuswalvarenga/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?logo=Gmail&logoColor=white&link=mailto:matheuswalvarenga@gmail.com)](mailto:matheuswalvarenga@gmail.com)  
+[![MatheusWAlvarenga Badge](https://img.shields.io/static/v1?label=repositories&message=MatheusWAlvarenga&color=blue?logo=matriz&logoColor=#FF7139=https://matheuswalvarenga.netlify.app/)](https://matheuswalvarenga.netlify.app/) [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/matheuswalvarenga)](https://www.linkedin.com/in/matheuswalvarenga/) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?logo=Gmail&logoColor=white&link=mailto:matheuswalvarenga@gmail.com)](mailto:matheuswalvarenga@gmail.com) 
 
 </div>
-
-
-<div align="center">
-	
-[![GitHub](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MatheusWAlvarenga&theme=vue)](https://github.com/MatheusWAlvarenga/) 
-</div>
-
 
 #### Workplace 👨🏻‍💻
 
 - [MWBR Tecnologia](https://www.linkedin.com/company/mwbr-tecnologia/) - Web developer
 
-&ensp;&ensp;&ensp;&ensp; [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/company/mwbr-tecnologia/) [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?&logo=instagram&logoColor=white)](https://www.instagram.com/mwbr.tecnologia/)   
+&ensp;&ensp;&ensp;&ensp; [![Linkedin Badge](https://img.shields.io/badge/-MWBRTecnologia-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/company/mwbr-tecnologia/) [![Instagram](https://img.shields.io/badge/-MWBRTecnologia-E4405F?&logo=instagram&logoColor=white)](https://www.instagram.com/mwbr.tecnologia/)   
 
 #
 #### Education 📚
