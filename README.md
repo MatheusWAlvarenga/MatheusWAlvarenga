@@ -8,7 +8,7 @@
 
 #### Workplace 👨🏻‍💻
 
-- [MWBR Tecnologia](https://www.linkedin.com/company/mwbr-tecnologia/) - Web developer
+- [MWBR Tecnologia](https://www.linkedin.com/company/mwbr-tecnologia/) - Full Stack Developer - Freelancer
 
 &ensp;&ensp;&ensp;&ensp; [![Linkedin Badge](https://img.shields.io/badge/-MWBRTecnologia-blue?logo=Linkedin&logoColor=white)](https://www.linkedin.com/company/mwbr-tecnologia/) [![Instagram](https://img.shields.io/badge/-MWBRTecnologia-E4405F?&logo=instagram&logoColor=white)](https://www.instagram.com/mwbr.tecnologia/)   
 
